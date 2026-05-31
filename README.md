@@ -1,4 +1,4 @@
-# Projeto Caça ao Peixe-Leão
+# Projeto Informativo sobre o Peixe-Leão
 
 Projeto desenvolvido durante meus estudos de HTML e CSS.
 
